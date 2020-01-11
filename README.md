@@ -11,7 +11,7 @@ These are the mostly used functions in the system which include:
 - Validation
 - and more
 
-### Usage Guide: 
+#### Usage Guide: 
 
 add the following dependency to pom.xml 
 
