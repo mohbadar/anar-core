@@ -8,10 +8,10 @@
 		<version>2.2.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>af.gov.anar.lang</groupId>
-	<artifactId>anar-lang</artifactId>
+	<groupId>af.gov.anar.core</groupId>
+	<artifactId>anar-core</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>anar-lang</name>
+	<name>anar-core</name>
 	<description>Library for shared functionalities</description>
 
 	<properties>
