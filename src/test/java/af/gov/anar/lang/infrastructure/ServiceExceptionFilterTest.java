@@ -2,6 +2,7 @@
 package af.gov.anar.lang.infrastructure;
 
 import af.gov.anar.lang.infrastructure.exception.service.ServiceException;
+import af.gov.anar.lang.infrastructure.exception.service.ServiceExceptionFilter;
 import org.junit.Test;
 import org.mockito.Mockito;
 import org.springframework.web.util.NestedServletException;

@@ -11,9 +11,9 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-final class ServiceExceptionFilter extends OncePerRequestFilter {
+public final class ServiceExceptionFilter extends OncePerRequestFilter {
 
-  ServiceExceptionFilter() {
+  public ServiceExceptionFilter() {
     super();
   }
 
