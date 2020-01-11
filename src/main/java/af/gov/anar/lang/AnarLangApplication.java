@@ -1,4 +1,4 @@
-package af.gov.anar.lang.anarlang;
+package af.gov.anar.lang;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
