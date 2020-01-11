@@ -1,4 +1,4 @@
-package af.gov.anar.lang.servicename;
+package af.gov.anar.lang.applicationname;
 
 import java.util.Objects;
 import java.util.regex.Matcher;
