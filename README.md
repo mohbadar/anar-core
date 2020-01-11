@@ -1,6 +1,6 @@
 ### Library for shared functionalities
 
-These are the mostly used functions in the system which include:
+These are shared functionalities in the framework which include:
 
 - Services Name
 - Common Annotations
